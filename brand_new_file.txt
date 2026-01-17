@@ -4,9 +4,5 @@ arya
 shri
 pruthvi
 jaggu
-<<<<<<< HEAD
-yashwanth
-=======
 yashwanth
 nandi
->>>>>>> 8a1e33ab612ef3aa5c27e564c91073b0c36e7a6f
